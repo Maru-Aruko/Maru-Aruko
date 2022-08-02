@@ -39,9 +39,14 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maru-Aruko&hide=contribs&hide_border&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maru-Aruko&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Maru-Aruko&hide=contribs&show_icons=true&theme=dark">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Maru-Aruko&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=a1rudy&layout=compact&theme=dark">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1rudy&layout=compact&theme=dark" />
+</a>
+</div>
 
 <!---
 Maru-Aruko/Maru-Aruko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
